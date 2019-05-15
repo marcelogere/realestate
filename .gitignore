@@ -1,0 +1,11 @@
+*.pyc
+*.log
+*.pot
+*~
+__pycache__/
+local_settings.py
+realestateenv
+db.sqlite3
+/static
+.DS_Store
+/media
